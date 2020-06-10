@@ -1,0 +1,29 @@
+[{
+        "nama": "Suci",
+        "umur": 22,
+        "NIK": "121312421",
+        "WNI": true,
+        "hobby": [
+            "baca",
+            "lari"
+        ],
+        "teman": {
+            "kanan": "ni'mah",
+            "kiri": "dafi"
+        }
+    },
+    {
+        "nama": "Suci",
+        "umur": 22,
+        "NIK": "121312421",
+        "WNI": true,
+        "hobby": [
+            "baca",
+            "lari"
+        ],
+        "teman": {
+            "kanan": "ni'mah",
+            "kiri": "dafi"
+        }
+    }
+]
